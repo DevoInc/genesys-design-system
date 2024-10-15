@@ -16,8 +16,8 @@
   "devDependencies": {
     "@storybook/addon-a11y": "^8.1.4",
     "@storybook/addon-actions": "^8.1.4",
-    "@storybook/addon-controls": "^8.1.4",
-    "@storybook/addon-docs": "^8.1.4",
+    "@storybook/addon-controls": "^8.3.5",
+    "@storybook/addon-docs": "^8.3.5",
     "@storybook/addon-links": "^8.1.4",
     "@storybook/addon-toolbars": "^8.1.4",
     "@storybook/addon-viewport": "^8.1.4",
